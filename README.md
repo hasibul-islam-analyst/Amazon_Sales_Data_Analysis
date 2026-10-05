@@ -1,5 +1,5 @@
 ### Amazon_Sales_Data_Analysis
-In this Sales Data Analysis Project, I tried to get insights from Amazon Sales Data in differnect countries and different Products.
+Analyzed Amazon sales data to identify revenue trends, product performance, customer patterns, geographic distribution, and order-status trends.
 ### Overview
 I have Tried to get insights from this Data set. I have created Graphs, Kpis, Dashboard to show the trends and values of the data. I have tried to turning data into valuable insights so that Business can use it.
 ### Dataset
